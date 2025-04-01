@@ -17,6 +17,39 @@
     border-radius: 0.3em !important;
 }
 
+.divisao{
+    background-color: #5A505A !important;
+    text-align: center !important;
+    color: white !important;
+    padding: 2em !important;
+    }
+
+.sec-pacotes{
+  margin-left: 10% !important; 
+  margin-right: 10% !important; 
+  justify-content: center !important;
+  margin: 1% !important;
+}
+
+.card{
+      margin: 0% 1% 1% !important;
+}
+
+.card p{
+    text-align: justify !important;
+}
+
+.card h4{
+    color: #5A505A !important;
+}
+
+.sec-contato{
+    margin-bottom: 10% !important;
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+}
+
+
     footer{
         background-color: #5A505A !important;
         padding: 1em !important; 
